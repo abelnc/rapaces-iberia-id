@@ -1,0 +1,16 @@
+{
+  "rapaces": [
+    {
+      "nombre_comun": "Águila imperial ibérica",
+      "nombre_cientifico": "Aquila adalberti",
+      "envergadura_cm": 200,
+      "habitat": "bosque mediterráneo"
+    },
+    {
+      "nombre_comun": "Buitre leonado",
+      "nombre_cientifico": "Gyps fulvus",
+      "envergadura_cm": 250,
+      "habitat": "montañas"
+    }
+  ]
+}
